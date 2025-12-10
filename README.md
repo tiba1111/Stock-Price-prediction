@@ -26,7 +26,7 @@ Model Architecture
 
 LSTM layer (50 units, return sequences)
 
-LSTM layer (50 units)
+LSTM layer (32 units)
 
 Dense output layer (1 neuron)
 
